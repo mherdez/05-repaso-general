@@ -17,16 +17,3 @@ body {
 .contador{
   font-size: 50px;
 }
-.btn {
-  margin: 10px;
-  padding: 5px 10px;
-  color: rgb(25, 25, 50);
-  border-radius: 5px;
-  border: none;
-}
-.btn-restar {
-  background-color: lightsalmon;
-}
-.btn-sumar {
-  background-color: lightgreen;
-}
