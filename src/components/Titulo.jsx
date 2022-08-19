@@ -1,5 +1,4 @@
 
-
 const Titulo = ( {texto} ) => {
 
   return (

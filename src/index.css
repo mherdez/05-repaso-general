@@ -20,13 +20,13 @@ body {
 .btn {
   margin: 10px;
   padding: 5px 10px;
-  color: white;
+  color: rgb(25, 25, 50);
   border-radius: 5px;
   border: none;
 }
 .btn-restar {
-  background-color: red;
+  background-color: lightsalmon;
 }
 .btn-sumar {
-  background-color: green;
+  background-color: lightgreen;
 }
